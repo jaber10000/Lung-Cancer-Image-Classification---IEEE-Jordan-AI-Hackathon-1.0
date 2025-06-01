@@ -2,6 +2,7 @@
 
 A deep learning project for classifying lung CT images into **Normal**, **Benign**, and **Malignant** categories. Developed for the **IEEE Jordan AI Modeling Hackathon 1.0**, this AI model supports medical professionals in accurate and efficient lung cancer diagnostics.
 
+##Dataset Link: https://www.kaggle.com/datasets/aboodai/lung-cancer-prediction-dataset
 ---
 
 ## 🏁 Competition Overview
